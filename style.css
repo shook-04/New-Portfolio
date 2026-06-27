@@ -104,3 +104,95 @@ body{
     display:block;
 }
 
+.expertise{
+
+    background-color: white;
+    padding:120px 85px;
+
+}
+
+.expertise-heading h5{
+
+    font-size:18px;
+    color:#282938;
+    margin-bottom:15px;
+
+}
+
+.expertise-heading h2{
+
+    font-size:48px;
+    color:#282938;
+    margin-bottom:60px;
+
+}
+
+.cards{
+
+    display:flex;
+    justify-content:space-between;
+    gap:30px;
+
+}
+
+.card{
+
+    background-color:#F5FCFF;
+    border-radius:12px;
+    padding:30px;
+    flex:1;
+
+}
+
+.active{
+
+    border-bottom:4px solid #5E3BEE;
+
+}
+
+.icon{
+
+    width:70px;
+    height:70px;
+
+    background:white;
+
+    border-radius:10px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin-bottom:30px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,.08);
+
+}
+
+.icon img{
+
+    width:40px;
+
+}
+
+.card h3{
+
+    font-size:24px;
+
+    color:#282938;
+
+    margin-bottom:20px;
+
+}
+
+.card p{
+
+    font-size:16px;
+
+    color:#1C1E53;
+
+    line-height:1.7;
+
+}
