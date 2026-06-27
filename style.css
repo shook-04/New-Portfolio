@@ -234,3 +234,128 @@ body{
     color:#1C1E53;
     margin-bottom:25px;
 }
+
+
+.portfolio{
+
+    background:white;
+    padding:120px 85px;
+
+}
+
+
+.portfolioHeader{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:60px;
+
+}
+
+.portfolioTitle h5{
+
+    font-size:18px;
+    color:#282938;
+    margin-bottom:15px;
+
+}
+
+.portfolioTitle h2{
+
+    font-size:48px;
+    color:#282938;
+
+}
+
+
+.dribbbleButton{
+
+    background:#E62872;
+    color:white;
+    text-decoration:none;
+    padding:16px 28px;
+    border-radius:8px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+
+}
+
+.dribbbleButton img{
+
+    width:20px;
+
+}
+
+
+.portfolioCards{
+
+    display:flex;
+
+    gap:30px;
+
+}
+
+
+.portfolioCard{
+
+    background:white;
+    border-radius:10px;
+    overflow:hidden;
+    flex:1;
+    box-shadow:0px 10px 25px rgba(0,0,0,.08);
+
+}
+
+
+.projectImage{
+
+    width:100%;
+
+    display:block;
+
+}
+
+
+.cardContent{
+
+    padding:30px;
+
+}
+
+.cardContent h3{
+
+    font-size:28px;
+    color:#282938;
+    margin-bottom:20px;
+
+}
+
+.cardContent p{
+
+    font-size:18px;
+    color:#1C1E53;
+    line-height:1.7;
+    margin-bottom:30px;
+
+}
+
+.dribbbleButton{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    background:#E62872;
+    color:white;
+    text-decoration:none;
+    padding:16px 24px;
+    border-radius:8px;
+    font-size:16px;
+    font-weight:500;
+}
+
+.dribbbleButton img{
+    width:20px;
+    height:20px;
+    display:block;
+}
