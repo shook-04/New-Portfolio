@@ -582,3 +582,94 @@ body{
     cursor:pointer;
 
 }
+
+.footer{
+
+    background:#F5FCFF;
+    padding:80px 85px 40px;
+}
+
+.footerTop{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:40px;
+}
+
+.footerLogo{
+
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.footerLogo img{
+
+    width:35px;
+}
+
+.footerLogo span{
+
+    font-size:28px;
+    font-weight:700;
+    color:#282938;
+}
+
+.footerMenu{
+
+    display:flex;
+    gap:35px;
+}
+
+.footerMenu a{
+
+    text-decoration:none;
+    color:#282938;
+    font-size:16px;
+}
+
+.socialIcons{
+
+    display:flex;
+    gap:20px;
+}
+
+.socialIcons img{
+
+    width:22px;
+    height:22px;
+}
+
+.footer hr{
+
+    border:none;
+    border-top:1px solid #B8C1CC;
+    margin-bottom:35px;
+}
+
+.footerBottom{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.footerBottom p{
+
+    font-size:15px;
+    color:#282938;
+}
+
+.footerLinks{
+
+    display:flex;
+    gap:35px;
+}
+
+.footerLinks a{
+
+    text-decoration:none;
+    color:#282938;
+    font-size:15px;
+}
