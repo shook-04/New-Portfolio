@@ -447,3 +447,138 @@ body{
     color:#1C1E53;
 
 }
+
+
+.contactSection{
+
+    background:white;
+    padding:120px 85px;
+
+}
+
+.contactHeading{
+
+    text-align:center;
+    margin-bottom:60px;
+
+}
+
+.contactHeading h5{
+
+    font-size:18px;
+    color:#282938;
+    margin-bottom:15px;
+
+}
+
+.contactHeading h2{
+
+    font-size:48px;
+    color:#282938;
+    margin-bottom:20px;
+
+}
+
+.contactHeading p{
+
+    font-size:18px;
+    color:#1C1E53;
+
+}
+
+.contactForm{
+
+    width:700px;
+    margin:auto;
+
+}
+
+.inputRow{
+
+    display:flex;
+    gap:30px;
+    margin-bottom:30px;
+
+}
+
+.inputGroup{
+
+    flex:1;
+    display:flex;
+    flex-direction:column;
+
+}
+
+.inputGroup label{
+
+    font-size:16px;
+    margin-bottom:10px;
+    color:#282938;
+
+}
+
+.inputGroup input{
+
+    height:60px;
+    border:1.5px solid #5E3BEE;
+    border-radius:8px;
+    padding:0 15px;
+    font-size:16px;
+    outline:none;
+
+}
+
+.inputGroup select{
+
+    height:60px;
+    border:1.5px solid #5E3BEE;
+    border-radius:8px;
+    padding:0 15px;
+    font-size:16px;
+    margin-bottom:30px;
+    outline:none;
+    background:white;
+
+}
+
+.inputGroup textarea{
+
+    height:220px;
+    border:1.5px solid #5E3BEE;
+    border-radius:8px;
+    padding:15px;
+    font-size:16px;
+    resize:none;
+    outline:none;
+    margin-bottom:30px;
+
+}
+
+.checkbox{
+
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:40px;
+
+}
+
+.checkbox input{
+
+    width:18px;
+    height:18px;
+}
+
+.submitButton{
+
+    display:block;
+    margin:auto;
+    background:#5E3BEE;
+    color:white;
+    border:none;
+    padding:16px 40px;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+
+}
